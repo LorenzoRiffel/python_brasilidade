@@ -21,5 +21,3 @@ class Cpf:
 
     def __str__(self):
         return self.format_cpf()
-
-    
